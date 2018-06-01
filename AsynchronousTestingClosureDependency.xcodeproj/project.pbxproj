@@ -49,6 +49,7 @@
 		459CF94C1F912DF300655F96 /* PasswordNetworkServiceSpy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordNetworkServiceSpy.swift; sourceTree = "<group>"; };
 		459CF94E1F912E1500655F96 /* PasswordUpdateUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordUpdateUseCase.swift; sourceTree = "<group>"; };
 		459CF9511F912E6600655F96 /* PasswordDatabaseRepositorySpy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordDatabaseRepositorySpy.swift; sourceTree = "<group>"; };
+		45A420BD20C1AAE90016F3A0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 		459CF90B1F90BF7700655F96 = {
 			isa = PBXGroup;
 			children = (
+				45A420BD20C1AAE90016F3A0 /* README.md */,
 				459CF9161F90BF7700655F96 /* AsynchronousTestingClosureDependency */,
 				459CF92B1F90BF7700655F96 /* AsynchronousTestingClosureDependencyTests */,
 				459CF9151F90BF7700655F96 /* Products */,
