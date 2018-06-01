@@ -11,4 +11,4 @@ This repository contains an example for my article "Asynchronous testing in Swif
 expectations within your test, and then fulfill those expectations when the asynchronous operation completes 
 successfully....
 
-Click [here](https://www.fabrizioduroni.it/2017/09/11/async-closure-test-mock-expectation-fulfill.html "Clean Code: meaningful names") to read the post.
+Click [here](https://www.fabrizioduroni.it/2018/06/01/async-closure-test-mock-expectation-fulfill.html "Clean Code: meaningful names") to read the post.
